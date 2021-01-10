@@ -29,7 +29,7 @@ https://github.com/dhaneswaramandrasa/Dog-Breed-Classifier.git
 3. Open a terminal window and navigate to the project folder. Open the notebook and follow the steps.
 	
 	```
-		jupyter Dog-Breed-Classifier.ipynb
+		jupyter dog_app.ipynb
 	```
 
 <a name="pro"></a>
